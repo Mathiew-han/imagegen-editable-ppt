@@ -1,0 +1,4 @@
+interface:
+  display_name: "ImageGen 可编辑 PPT"
+  short_description: "先看 ImageGen 原型，再重建可编辑 PowerPoint，支持 33 种子风格"
+  default_prompt: "请使用 $imagegen-editable-ppt 把我提供的材料做成可编辑 PPT，先拟大纲和推荐风格，再生成一张代表页。"
